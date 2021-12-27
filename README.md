@@ -1,1 +1,1 @@
-# Django_Educative
+# Mastering the Django Rest Framework
