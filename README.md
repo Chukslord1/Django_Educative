@@ -1,1 +1,1 @@
-"# Django_Educative" 
+# Django_Educative
